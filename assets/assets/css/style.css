@@ -1,6 +1,6 @@
 #home {
 	background-image: url(../img/ocean.jpeg);
-	background-size:cover;
+	background-size: cover;
 	background-position: center top;
 	background-attachment: fixed;
 	min-height: 80vh;
@@ -10,15 +10,16 @@
 }
 
 body {
-background-image: url(../img/skyscrapers_AdobeStock_80735091-1024x619.jpg);
+	background-image: url(../img/skyscrapers_AdobeStock_80735091-1024x619.jpg);
 	background-size: cover;
 	background-position: center center;
 	background-attachment: fixed;
-	background-blend-mode:soft-light;
+	background-blend-mode: soft-light;
 	min-height: 100vh;
 	padding: 0px;
 	margin: 0 auto;
 }
+
 nav a {
 	list-style-type: none;
 	top: 2em;
@@ -43,14 +44,15 @@ h3 {
 	font-family: cursive;
 	color: midnightblue;
 }
-img{
+
+img {
 	position: inherit;
 }
-header{
+
+header {
 	text-align: center;
 }
 
-ul{
+ul {
 	list-style-type: none;
 }
-
