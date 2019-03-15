@@ -1,0 +1,56 @@
+#home {
+	background-image: url(../img/ocean.jpeg);
+	background-size:cover;
+	background-position: center top;
+	background-attachment: fixed;
+	min-height: 80vh;
+	width: 500px;
+	padding: 0;
+	margin: 0 auto;
+}
+
+body {
+background-image: url(../img/skyscrapers_AdobeStock_80735091-1024x619.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+	background-blend-mode:soft-light;
+	min-height: 100vh;
+	padding: 0px;
+	margin: 0 auto;
+}
+nav a {
+	list-style-type: none;
+	top: 2em;
+	margin: 0;
+	padding: 0;
+	top: 2em;
+	left: 1em;
+	width: 9em
+}
+
+h3 {
+	font-family: sans-serif;
+	color: greenyellow;
+}
+
+h1 {
+	font-family: sans-serif;
+	color: lightblue;
+}
+
+h3 {
+	font-family: cursive;
+	color: midnightblue;
+}
+img{
+	position: inherit;
+}
+header{
+	text-align: center;
+}
+
+ul{
+	list-style-type: none;
+}
+
